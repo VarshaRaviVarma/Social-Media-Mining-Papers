@@ -15,6 +15,9 @@ Initially, a hypothesis based on the different sides of Reddit will be framed, f
 
 ## References
 1] https://smartech.gatech.edu/handle/1853/60357
+
 2] https://www.tandfonline.com/doi/abs/10.1080/14742837.2018.1483227
+
 3] https://aljaz-sulcic.medium.com/dark-side-of-reddit-how-disturbing-can-it-be-d1df86e65e86
+
 4] https://www.mostlyblogging.com/reddit-vs-quora/
